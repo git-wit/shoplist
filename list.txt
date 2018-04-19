@@ -8,3 +8,8 @@ grapes
 carlsberg beer
 Metalman beer
 Guisness
+chips
+butter
+soda
+newspaper
+test
