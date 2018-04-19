@@ -5,3 +5,6 @@ apples
 banana
 pineapple
 grapes
+carlsberg beer
+Metalman beer
+Guisness
