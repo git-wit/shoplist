@@ -1,6 +1,6 @@
 # shoplist
-##My best shopping list ever
-###GREAT
+## My best shopping list ever
+### GREAT
 
 1. Item 1
 1. Item 2
